@@ -9,3 +9,9 @@ This is the fourth sentence inside my exemple.txt file.
 This is the fifth sentence inside my exemple.txt file.
 
 This is the sixth sentence inside my exemple.txt file.
+
+Partie 2
+
+This is the first sentence of the second part.
+
+This is the second sentence of the second part.
