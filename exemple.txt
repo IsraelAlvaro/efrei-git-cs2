@@ -10,8 +10,8 @@ This is the fifth sentence inside my exemple.txt file.
 
 This is the sixth sentence inside my exemple.txt file.
 
-Part Two
+Partie 2
 
 This is the first sentence of the second part.
 
-Ceci est la deuxième phrase de la deuxième partie.
+This is the second sentence of the second part.
