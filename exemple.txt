@@ -9,3 +9,9 @@ This is the fourth sentence inside my exemple.txt file.
 This is the fifth sentence inside my exemple.txt file.
 
 This is the sixth sentence inside my exemple.txt file.
+
+Part Two
+
+This is the first sentence of the second part.
+
+Ceci est la deuxième phrase de la deuxième partie.
