@@ -3,3 +3,9 @@ Ceci est la première phrase dans mon fichier exemple.txt.
 Ceci est la deuxième phrase dans mon fichier exemple.txt.
 
 Ceci est la troisème phrase dans mon fichier exemple.txt.
+
+This is the fourth sentence inside my exemple.txt file.
+
+This is the fifth sentence inside my exemple.txt file.
+
+This is the sixth sentence inside my exemple.txt file.
