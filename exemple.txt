@@ -1,0 +1,1 @@
+Ceci est la première phrase dans mon fichier exemple.txt.
