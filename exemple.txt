@@ -1,3 +1,5 @@
 Ceci est la première phrase dans mon fichier exemple.txt.
 
 Ceci est la deuxième phrase dans mon fichier exemple.txt.
+
+Ceci est la troisème phrase dans mon fichier exemple.txt.
